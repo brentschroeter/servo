@@ -38,6 +38,7 @@
 
 import json
 import os
+# FIXME: pty is only available in Unix environments.
 import pty
 import re
 import signal
